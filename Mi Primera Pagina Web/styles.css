@@ -1,0 +1,104 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+/*ENCABEZADO*/
+header{
+    background-color: #22211f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+}
+header #miweb{
+    /* paso x4 */
+    display: inline-block;
+    /* paso x4 */
+    
+    /* paso x5 */
+    line-height: 80px;
+    /* paso x5 */
+
+    padding: 0 40px;
+}
+nav.menu1 ul li a{
+    color: #eeeeee;
+}
+/* para hacer el menu en linea seguir pasos x */
+.menu1 ul li{
+/* paso x1 */
+    display: inline-block;
+    /* paso x1 */
+    margin-right: 20px; /*para separar y no esten pegados*/
+
+    /* paso x3 */
+    line-height: 50px;
+    /* paso x3 */
+}
+header nav{
+    /* paso x2 */
+    float: right;
+    /*paso x2 */
+}
+#miweb a{
+    color: #b59a61;
+}
+.menu1{
+    padding-top: 20px;
+}
+/*CENTRO*/
+body{
+    background-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+main{
+    background-color: antiquewhite;
+
+}
+h2{
+    padding: 10px;
+    text-align: center;
+}
+p{
+    padding: 20px;
+    text-align: justify;
+}
+.mivida{
+    width: 500px;
+    float: left;
+}
+.mifoto{
+
+    float: left;
+}
+
+.imagencita1{
+    padding: 20px;
+    width: 100%;
+    
+}
+.imagencita{
+    padding: 20px;
+    clear: both;
+    width: 100%;
+}
+.fuente-clara {color: #eeeeee;}
+
+.fuente-oscura {color: #22211f;}
+
+.fuente-acento {color: #b59a61;}
+
+/*pie de pagian*/
+footer{
+    width: 100%;
+    background-color: #22211f;
+    padding: 20px;
+    color: #f0f0f0;
+}
+.pie_pagina{
+    padding: 10px;
+}
