@@ -79,12 +79,14 @@ p{
 .imagencita1{
     padding: 20px;
     width: 100%;
+    border-radius: 15%;
     
 }
 .imagencita{
     padding: 20px;
     clear: both;
     width: 100%;
+    border-radius: 10%;
 }
 .fuente-clara {color: #eeeeee;}
 
