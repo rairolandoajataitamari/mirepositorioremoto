@@ -44,7 +44,7 @@ header nav{
     /*paso x2 */
 }
 #miweb a{
-    color: #b59a61;
+    color: #f0efee;
 }
 .menu1{
     padding-top: 20px;
@@ -56,7 +56,7 @@ body{
     font-size: 18px;
 }
 main{
-    background-color: antiquewhite;
+    background-color: rgb(26, 209, 120);
 
 }
 h2{
